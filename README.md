@@ -20,7 +20,7 @@ To install the Markdown Editor, complete the following steps:
 
 1. Open Microsoft Visual Studios.
 
-   ![Capture1](../../../Pictures/capture1.JPG)
+   ![Capture1](images/capture1.JPG)
 
 2. Click on **Tools** in the top menu.
 
@@ -28,23 +28,23 @@ To install the Markdown Editor, complete the following steps:
 
    The Extensions and Updates window will open on the screen.
 
-   ![Capture2](../../../Pictures/Capture2.JPG)
+   ![Capture2](images/Capture2.JPG)
 
 3.	Click on **Online** in the left side menu.
 
-   ![Capture3](../../../Pictures/capture3.JPG)
+   ![Capture3](images/capture3.JPG)
 
 4.	Type “markdown editor” into the search box
 
     Results will automatically appear in the window.
 
-   ![Capture4](../../../Pictures/capture4.JPG)
+   ![Capture4](images/capture4.JPG)
 
 5.	Click on **Download** next to Markdown Editor.
 
     A progress window will appear and disappear once finished downloading.
 
-   ![Capture5](../../../Pictures/capture5.JPG)
+   ![Capture5](images/capture5.JPG)
 
 6.	Click **Close**.
 
@@ -52,13 +52,13 @@ To install the Markdown Editor, complete the following steps:
 
     Another progress window will appear briefly followed by the VSIX Installer window.
  
-   ![Capture6](../../../Pictures/capture6.JPG)
+   ![Capture6](images/capture6.JPG)
 
 8.	Click on **Modify**.
 
     Modifications will be installed into Visual Studios.
 
-   ![Capture7](../../../Pictures/capture7.JPG)
+   ![Capture7](images/capture7.JPG)
 
 9.	Click on **Close**.
 
