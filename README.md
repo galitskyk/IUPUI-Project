@@ -1,4 +1,4 @@
-[//]: # (This markdown file will be opened and edited in Microsoft Visual Studios. Snagit will capture the screen as each step is followed, 
+[//]: # (This markdown file will be opened and edited in Microsoft Visual Studios. Captivate will capture the screen as each step is followed, 
 and the screen captures will be used to create a narrated instructional video.)
 
 # How to edit markdown files in Microsoft Visual Studios
